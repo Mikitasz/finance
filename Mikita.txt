@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 45
-Message: 125125
+Cost: 5
+Message: kebab
 
