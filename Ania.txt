@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 0
-Message: kebab
+Cost: 90
+Message: plojka
 
