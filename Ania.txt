@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 55
-Message: test substruct
+Cost: %!s(int=50)
+Message: upd
 
