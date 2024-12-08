@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 55
-Message: upd
+Cost: 0
+Message: 3
 
