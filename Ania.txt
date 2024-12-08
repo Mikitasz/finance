@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 90
-Message: plojka
+Cost: 10
+Message: 555
 
