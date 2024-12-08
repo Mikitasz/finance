@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: %!s(int=50)
+Cost: 55
 Message: upd
 
