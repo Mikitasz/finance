@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 522
-Message: uod
+Cost: 68
+Message: 5555
 
