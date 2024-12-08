@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 10
+Cost: 0
 Message: kebab3
 
