@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 3333
-Message: 124214
+Cost: 23
+Message: 555
 
