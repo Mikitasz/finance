@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 55
-Message: 123213
+Cost: 555
+Message: mosadosad
 
