@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 10
-Message: 555
+Cost: 40
+Message: kebab startmarks
 
