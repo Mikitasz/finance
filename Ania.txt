@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 940
-Message: internet
+Cost: 0
+Message: update test
 
