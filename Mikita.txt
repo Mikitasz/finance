@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 174
-Message: SMASH Burger
+Cost: 132
+Message: Umam
 
