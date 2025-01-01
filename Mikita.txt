@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 159
+Cost: 158
 Message: Тестовый один злот ------->1zl.
 
