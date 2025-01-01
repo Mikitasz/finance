@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 158
-Message: За жабку ------->25zl.
+Cost: 159
+Message: Тестовый один злот ------->1zl.
 
