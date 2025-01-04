@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 615
-Message: тест 2--->5zl.
+Cost: 620
+Message: тест 3--->5zl.
 
