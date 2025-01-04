@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 615
-Message: Аванс на мак------->500zl.
+Cost: 620
+Message: тест--->5zl.
 
