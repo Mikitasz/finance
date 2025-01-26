@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 185
-Message: Піцца--->37zl.
+Cost: 190
+Message: test--->5zl.
 
