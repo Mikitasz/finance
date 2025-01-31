@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 103
-Message: Surf Burger--->37zl.(Доставки)
+Cost: 130
+Message: Patate--->27zl.(Доставки)
 
