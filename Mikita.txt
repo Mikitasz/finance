@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 140
-Message: Żabka--->20zl.(Еда)
+Cost: 103
+Message: Surf Burger--->37zl.(Доставки)
 
