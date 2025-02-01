@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 160
-Message: Surf Burget--->30zl.(Доставки)
+Cost: 85
+Message: Lidl--->75zl.(Еда)
 
