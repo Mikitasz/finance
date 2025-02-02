@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 85
-Message: Lidl--->75zl.(Еда)
+Cost: 43
+Message: Carrefour--->42zl.(Еда)
 
