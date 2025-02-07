@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 118
-Message: Переплата за свет--->75zl.(Жилье)
+Cost: 236
+Message: Бедронка доставка --->118zl.(Еда)
 
