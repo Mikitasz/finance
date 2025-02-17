@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 52
-Message: Zabka--->15zl.(Еда)
+Cost: 0
+Message: update test
 
