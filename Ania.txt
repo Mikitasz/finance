@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 0
-Message: test
+Cost: 20
+Message: Biedronka--->72zl.(Еда)
 
