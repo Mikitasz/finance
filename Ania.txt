@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 0
-Message: update test
+Cost: 20
+Message: Mac Donald --->30zl.(Доставки)
 
