@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 6
-Message: Lewitamn --->10zl.(Еда)
+Cost: 0
+Message: update test
 
