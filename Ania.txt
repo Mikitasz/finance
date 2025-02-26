@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 24
-Message: Mix покупки--->45zl.(Другое)
+Cost: 4
+Message: Umam --->20zl.(Доставки)
 
