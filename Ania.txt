@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 4
-Message: Umam --->20zl.(Доставки)
+Cost: 0
+Message: update test
 
