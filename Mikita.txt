@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 60
-Message: Лідл--->85zl.(Еда)
+Cost: 80
+Message: Юск --->20zl.(Жилье)
 
