@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 80
-Message: Юск --->20zl.(Жилье)
+Cost: 45
+Message: Biedronka --->35zl.(Еда)
 
