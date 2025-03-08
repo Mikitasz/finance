@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 135
-Message: Bistro--->33zl.(Еда)
+Cost: 20
+Message: Biedronka--->115zl.(Еда)
 
