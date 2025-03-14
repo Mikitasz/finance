@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 13
-Message: Herbata--->37zl.(Еда)
+Cost: 45
+Message: Macdonald--->32zl.(Доставки)
 
