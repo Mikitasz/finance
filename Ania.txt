@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 26
-Message: Auchan--->30zl.(Еда)
+Cost: 0
+Message: update test
 
