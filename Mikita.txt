@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 531
-Message: Potate --->17zl.(Доставки)
+Cost: 543
+Message: Action --->12zl.(Еда)
 
