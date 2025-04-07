@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 601
-Message: Biedronka --->95zl.(Еда)
+Cost: 101
+Message: Отдал долг--->500zl.(Другое)
 
