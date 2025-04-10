@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 101
-Message: Отдал долг--->500zl.(Другое)
+Cost: 77
+Message: Mac--->24zl.(Доставки)
 
