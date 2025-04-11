@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 72
-Message: Kebab--->25zl.(Доставки)
+Cost: 82
+Message: Carrefour --->10zl.(Еда)
 
