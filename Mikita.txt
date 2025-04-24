@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 62
-Message: Mac--->12zl.(Еда)
+Cost: 12
+Message: Pizza topia --->50zl.(Еда)
 
