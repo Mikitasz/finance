@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 0
-Message: update test
+Cost: 56
+Message: Bedronka--->56zl.(Еда)
 
