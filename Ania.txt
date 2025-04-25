@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 0
-Message: Obi --->22zl.(Жилье)
+Cost: 9
+Message: Careful --->21zl.(Еда)
 
