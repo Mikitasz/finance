@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 12
-Message: Pizza topia --->50zl.(Еда)
+Cost: 0
+Message: update test
 
