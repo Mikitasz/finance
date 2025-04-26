@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 9
-Message: Careful --->21zl.(Еда)
+Cost: 31
+Message: Mac--->22zl.(Доставки)
 
