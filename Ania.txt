@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 96
-Message: Allegro --->65zl.(Другое)
+Cost: 78
+Message: Careful --->18zl.(Еда)
 
