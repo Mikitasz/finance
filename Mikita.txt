@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 144
-Message: Lidl--->22zl.(Еда)
+Cost: 132
+Message: Zabka--->12zl.(Еда)
 
