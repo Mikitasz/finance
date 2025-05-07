@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 97
-Message: Mac--->32zl.(Кафе/Рестораны)
+Cost: 82
+Message: Taxi--->15zl.(Транспорт)
 
