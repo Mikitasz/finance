@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 82
-Message: Taxi--->15zl.(Транспорт)
+Cost: 62
+Message: Zaba--->20zl.(Кафе/Рестораны)
 
