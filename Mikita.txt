@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 139
-Message: traficar--->75zl.(Транспорт)
+Cost: 214
+Message: Buldak--->75zl.(Еда)
 
