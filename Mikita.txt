@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 131
-Message: Bolt Taxi--->8zl.(Транспорт)
+Cost: 111
+Message: SUC-SZAM--->20zl.(Другое)
 
