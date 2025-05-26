@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 433
-Message: Truskawka--->22zl.(Еда)
+Cost: 440
+Message: Taxi--->7zl.(Транспорт)
 
