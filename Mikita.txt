@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 440
-Message: Taxi--->7zl.(Транспорт)
+Cost: 428
+Message: Zabka--->12zl.(Еда)
 
