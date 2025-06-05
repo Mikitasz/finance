@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 310
-Message: Mcdonald--->25zl.(Еда)
+Cost: 278
+Message: mcdonald--->32zl.(Доставки)
 
