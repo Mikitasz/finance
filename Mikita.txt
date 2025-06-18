@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 181
-Message: Taxi2--->10zl.(Транспорт)
+Cost: 138
+Message: Mtg--->43zl.(Развлечения)
 
