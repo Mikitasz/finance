@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 191
-Message: Taxi--->9zl.(Транспорт)
+Cost: 181
+Message: Taxi2--->10zl.(Транспорт)
 
