@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 290
-Message: McDonald --->32zl.(Доставки)
+Cost: 200
+Message: Lidl--->90zl.(Еда)
 
