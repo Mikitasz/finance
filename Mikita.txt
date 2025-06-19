@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 122
-Message: Burger King--->15zl.(Доставки)
+Cost: 147
+Message: Lidl--->25zl.(Еда)
 
