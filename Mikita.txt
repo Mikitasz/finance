@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 70
-Message: Lidl--->31zl.(Еда)
+Cost: 30
+Message: Kebab --->40zl.(Доставки)
 
