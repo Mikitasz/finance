@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 157
-Message: Bolt --->8zl.(Транспорт)
+Cost: 206
+Message: Misc --->49zl.(Другое)
 
