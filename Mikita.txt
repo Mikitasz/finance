@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 127
-Message: Taxi--->11zl.(Транспорт)
+Cost: 149
+Message: Lidl--->22zl.(Еда)
 
