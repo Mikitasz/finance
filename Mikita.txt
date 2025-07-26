@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 0
-Message: update test
+Cost: 27
+Message: Lidl--->43zl.(Еда)
 
