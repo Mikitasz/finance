@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 8
-Message: Lidl--->86zl.(Еда)
+Cost: 16
+Message: Action--->8zl.(Другое)
 
