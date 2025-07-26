@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 78
-Message: Taxi + vishnia--->25zl.(Еда)
+Cost: 0
+Message: update test
 
