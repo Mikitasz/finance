@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 4
-Message: Lidl--->31zl.(Еда)
+Cost: 17
+Message: Kfc--->13zl.(Кафе/Рестораны)
 
