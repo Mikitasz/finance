@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 17
-Message: Kfc--->13zl.(Кафе/Рестораны)
+Cost: 0
+Message: update test
 
