@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 43
-Message: Uber--->10zl.(Транспорт)
+Cost: 0
+Message: update test
 
