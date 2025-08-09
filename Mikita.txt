@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 53
-Message: Lidl--->23zl.(Еда)
+Cost: 43
+Message: Uber--->10zl.(Транспорт)
 
