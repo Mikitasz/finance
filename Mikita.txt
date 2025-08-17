@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 91
-Message: Biedronka--->31zl.(Еда)
+Cost: 83
+Message: Bolt--->8zl.(Еда)
 
