@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 56
-Message: Bolt--->7zl.(Транспорт)
+Cost: 31
+Message: Lidl--->25zl.(Еда)
 
