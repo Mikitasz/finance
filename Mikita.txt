@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 63
-Message: Glovo--->20zl.(Кафе/Рестораны)
+Cost: 56
+Message: Bolt--->7zl.(Транспорт)
 
