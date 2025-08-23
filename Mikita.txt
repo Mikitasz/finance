@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 83
-Message: Bolt--->8zl.(Еда)
+Cost: 63
+Message: Glovo--->20zl.(Кафе/Рестораны)
 
