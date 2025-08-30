@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 136
-Message: Ikea --->64zl.(Еда)
+Cost: 116
+Message: Pizza--->20zl.(Доставки)
 
