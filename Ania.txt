@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 39
-Message: Lidl--->155zl.(Еда)
+Cost: 81
+Message: Rossmann --->42zl.(Жилье)
 
