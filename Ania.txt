@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 25
-Message: Mcdonald--->19zl.(Еда)
+Cost: 40
+Message: Pepco--->15zl.(Жилье)
 
