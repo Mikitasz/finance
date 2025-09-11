@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 81
-Message: Rossmann --->42zl.(Жилье)
+Cost: 44
+Message: Carefure --->37zl.(Еда)
 
