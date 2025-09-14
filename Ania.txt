@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 54
-Message: Rybka--->17zl.(Еда)
+Cost: 3
+Message: Lidl--->51zl.(Еда)
 
