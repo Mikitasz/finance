@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 72
-Message: Lidl--->10zl.(Еда)
+Cost: 109
+Message: Apteka--->37zl.(Еда)
 
