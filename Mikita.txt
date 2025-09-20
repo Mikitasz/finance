@@ -1,4 +1,4 @@
 User: Mikitasz
-Cost: 61
-Message: Action --->16zl.(Жилье)
+Cost: 41
+Message: Aanchini--->20zl.(Кафе/Рестораны)
 
